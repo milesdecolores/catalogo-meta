@@ -2,7 +2,8 @@ name: Actualizar catálogo Meta
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"
+ schedule:
+  - cron: "0 21 * * *"
 permissions:
   contents: write
 jobs:
