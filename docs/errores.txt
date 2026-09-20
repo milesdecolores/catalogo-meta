@@ -1,0 +1,1 @@
+https://www.milesdecolores.com/producto/gorra-super-papa-abuelo	ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
